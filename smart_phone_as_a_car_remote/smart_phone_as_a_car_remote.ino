@@ -3,7 +3,7 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h> 
 #include <ESP8266WebServer.h>
-s
+
 const char* ssid = "NAME"; // your name of your car's wifi
 const char* password = "PASSWORD"; // your password of your car's wifi
 ESP8266WebServer server(80);
